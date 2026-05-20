@@ -148,7 +148,7 @@ winget install EclipseAdoptium.Temurin.21.JDK
 No seu Windows, o pacote `Apache.Maven` nao foi encontrado pelo `winget`. Por isso, o Maven foi instalado manualmente em:
 
 ```text
-C:\Users\nogue\Documents\Code\Tools\apache-maven-3.9.9
+C:\Users\USERPROFILE\Documents\Code\Tools\apache-maven-3.9.9
 ```
 
 Comandos usados para instalar o Maven manualmente:
@@ -252,29 +252,6 @@ Tabelas:
 - Adicionar filtros por status e prioridade
 - Criar instalador desktop
 
-## Funcionalidades que impressionam recrutadores
-
-- Interface grafica real, nao apenas terminal
-- Banco de dados local com SQLite
-- Separacao entre tela, regras e banco
-- Uso de Maven e JUnit
-- SQL organizado em arquivo proprio
-- Tratamento de erros amigavel
-- Dominio real de empresa
-- Projeto facil de evoluir para ERP, CRM ou help desk
-
-## Sugestoes de commits profissionais
-
-```text
-git add .
-git commit -m "chore: create java swing project structure"
-git commit -m "feat: add ticket domain models"
-git commit -m "feat: add sqlite persistence with jdbc"
-git commit -m "feat: add ticket business services"
-git commit -m "feat: build swing desktop interface"
-git commit -m "fix: save java files without bom"
-git commit -m "docs: update windows setup instructions"
-```
 
 ## Organizacao de branches
 
@@ -298,41 +275,6 @@ git checkout main
 git merge fix/windows-setup
 ```
 
-## Como publicar no GitHub
-
-```powershell
-git init
-git add .
-git commit -m "feat: add servicedesk swing java project"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/servicedesk-swing-java.git
-git push -u origin main
-```
-
-Descricao recomendada do repositorio:
-
-```text
-Sistema desktop de chamados em Java Swing com Maven, SQLite, JDBC, arquitetura em camadas e testes.
-```
-
-## O que recrutadores analisam
-
-- Se o projeto compila e executa
-- Se a interface e usavel
-- Se o README explica bem o projeto
-- Se existe separacao em camadas
-- Se ha banco de dados e validacoes
-- Se ha testes automatizados
-- Se o projeto resolve uma situacao real
-- Se os commits sao claros e profissionais
-
-## Por que este projeto e forte para portfolio
-
-Ele mostra Java em um contexto real de escritorio: chamados, solicitantes, status, prioridade, dashboard e persistencia. Tambem prova que voce consegue organizar um sistema desktop com banco e regras de negocio, algo bem mais forte do que um CRUD isolado.
-
-## Nivel demonstrado
-
-Demonstra nivel de programador junior inicial bem preparado, com conhecimento de Java, POO, SQL, Maven, Swing, JDBC, testes e organizacao de projeto.
 
 ## Habilidades tecnicas comprovadas
 
