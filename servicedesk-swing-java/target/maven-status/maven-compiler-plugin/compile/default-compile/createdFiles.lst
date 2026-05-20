@@ -1,0 +1,17 @@
+br\com\nogueira\servicedesk\model\TicketStatus.class
+br\com\nogueira\servicedesk\database\ConnectionFactory.class
+br\com\nogueira\servicedesk\exception\BusinessException.class
+br\com\nogueira\servicedesk\model\Customer.class
+br\com\nogueira\servicedesk\service\TicketService.class
+br\com\nogueira\servicedesk\ui\MainFrame.class
+br\com\nogueira\servicedesk\repository\CustomerRepository.class
+br\com\nogueira\servicedesk\service\CustomerService.class
+br\com\nogueira\servicedesk\Main.class
+br\com\nogueira\servicedesk\repository\TicketRepository.class
+br\com\nogueira\servicedesk\database\DatabaseInitializer.class
+br\com\nogueira\servicedesk\model\Priority.class
+br\com\nogueira\servicedesk\service\ValidationService.class
+br\com\nogueira\servicedesk\config\AppConfig.class
+br\com\nogueira\servicedesk\exception\DatabaseException.class
+br\com\nogueira\servicedesk\model\Ticket.class
+br\com\nogueira\servicedesk\ui\TicketTableModel.class

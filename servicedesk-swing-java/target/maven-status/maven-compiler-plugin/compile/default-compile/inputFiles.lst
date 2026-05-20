@@ -1,0 +1,17 @@
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\config\AppConfig.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\database\ConnectionFactory.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\database\DatabaseInitializer.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\exception\BusinessException.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\exception\DatabaseException.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\Main.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\model\Customer.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\model\Priority.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\model\Ticket.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\model\TicketStatus.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\repository\CustomerRepository.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\repository\TicketRepository.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\service\CustomerService.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\service\TicketService.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\service\ValidationService.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\ui\MainFrame.java
+C:\Users\nogue\Documents\Code\Projetos\servicedesk-swing-java\src\main\java\br\com\nogueira\servicedesk\ui\TicketTableModel.java
