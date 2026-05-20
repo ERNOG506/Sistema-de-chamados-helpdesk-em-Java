@@ -239,19 +239,6 @@ Tabelas:
 - `ValidationService.java`: validacoes reutilizaveis.
 - `schema.sql`: estrutura do banco.
 
-## Melhorias futuras
-
-- Migrar para Spring Boot
-- Criar API REST
-- Adicionar PostgreSQL ou SQL Server
-- Criar login de usuarios
-- Criar perfis de acesso
-- Adicionar SLA e prazo de atendimento
-- Exportar relatorio para Excel
-- Gerar relatorio PDF
-- Adicionar filtros por status e prioridade
-- Criar instalador desktop
-
 
 ## Organizacao de branches
 
