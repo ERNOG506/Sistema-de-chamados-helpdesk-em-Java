@@ -1,4 +1,4 @@
-# ServiceDesk Pro - Java Swing
+# Sistema Helpdesk
 
 Sistema profissional de gestao de chamados com interface grafica em Java Swing, persistencia em SQLite, arquitetura em camadas, validacoes de negocio e testes automatizados.
 
